@@ -1,0 +1,39 @@
+.container img{
+    width: 100px;
+}
+.container{
+    margin-bottom: 70px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, rgb(19, 17, 17) 0%, #201419 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.col-md-7{
+    background-image: url("C:/Web Deveopment/project 1/hot-gadgets/bg-2.png");
+    background-repeat: no-repeat;
+}
+.col-md-5{
+    background-image: url("C:/Web Deveopment/project 1/hot-gadgets/bg-1.png");
+    background-repeat: no-repeat;
+}
+.container p{
+    color: #555;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#see{
+    color: orange;
+}
+#phone{
+    border: none;
+    box-shadow: gray;
+}
